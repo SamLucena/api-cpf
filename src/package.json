@@ -1,0 +1,14 @@
+{
+  "name": "api-cpf",
+  "version": "1.0.0",
+  "description": "Api to validate CPF",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SamLucena",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
