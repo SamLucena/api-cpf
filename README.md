@@ -2,12 +2,12 @@
 
 Uma api em node que realiza a validação do cpf de usuários.
 
-## Exemplos Requisições
+## URL requisição
 
 - GET: ``https://api-cpf.up.railway.app/CPF Aqui``
 - GET: ``https://api-cpf.up.railway.app/12345678909``
 
-## Resposta da requisão
+## Resposta da requisição
 ```json
 {
   "is_valid": true,
